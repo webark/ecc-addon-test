@@ -1,1 +1,0 @@
-export { default } from 'ecc-addon-test/components/test-component/component';
